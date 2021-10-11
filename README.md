@@ -1,4 +1,5 @@
 # Лабораторная работа №6
+[![Build Status](https://app.travis-ci.com/Yourmaidishere/lab06.svg?branch=main)](https://app.travis-ci.com/Yourmaidishere/lab06)
 
  1) Чтобы настроить CPack для программы solver,внесла изменения в CMakeLists.txt для этой программы (все файлы приведены ниже).
   2) Из типов пакетов использовала RPM и DEB.
